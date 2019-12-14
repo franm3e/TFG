@@ -1,0 +1,26 @@
+[AGOL]
+usuario = #CONFIDENCIAL
+clave = #CONFIDENCIAL
+idusuario = #CONFIDENCIAL
+
+[COMERCIAL]
+fichaComercial = Ficha_Comercial
+fichaDesague = Comercial_Desague
+
+[TECNICO]
+fichaTecnica = FichaTecnica
+esquinas = Esquinas
+
+[LOCAL]
+userdownloads = #CONFIDENCIAL\chimbote
+gdb_fichaagua = #CONFIDENCIAL\Comercial_Piloto.gdb
+gdb_fichadesague = #CONFIDENCIAL\Desague_Piloto.gdb
+gdb_fichatecnica = #CONFIDENCIAL\fichaTecnica_1b1599ce74134843a405a9863ebbb534.gdb
+gdb_fichaesquinas = #CONFIDENCIAL\esquinas_8fd913e964f543e1a3f0ed146e133bff.gdb
+gdb_cartobase = #CONFIDENCIAL\Fase1PrecampoCartoBase.gdb
+gdb_aguapotable = #CONFIDENCIAL\AguaPotableV03.gdb
+path_imprimir = #CONFIDENCIAL\chimboteImpresion
+gdb_ereferencia = #CONFIDENCIAL\Fase1CTecnico.gdb
+gdb_comercialprocesado = #CONFIDENCIAL\Comercial_Piloto.gdb
+gdb_aguapotable_piloto = #CONFIDENCIAL\AguaPotableV03_Temp.gdb
+gdb_fichacomercial = #CONFIDENCIAL\fichaComercial_fea4994cbd7748bb83e28c864a05089b.gdb
